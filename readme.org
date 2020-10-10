@@ -4,20 +4,16 @@
 * Notes
   Install
   #+begin_src sh
-    cd my-app
     yarn install
   #+end_src
 
   To run
   #+begin_src sh
-    cd my-app
     yarn start
   #+end_src
 
-
   To build
   #+begin_src sh
-    cd my-apple
     yarn run build
   #+end_src
 
